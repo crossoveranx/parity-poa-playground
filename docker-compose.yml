@@ -5,7 +5,6 @@ services:
     command:
       --config /parity/config/authority.toml
       --engine-signer 0x00bd138abd70e2f00903268f3db08f2d25677c9e
-      --dapps-interface 0.0.0.0
       --ws-interface 0.0.0.0
       --ui-interface 0.0.0.0
       --unsafe-expose   
